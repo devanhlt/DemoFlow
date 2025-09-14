@@ -1,0 +1,1 @@
+![DemoFlow Architecture](diagram.png)
